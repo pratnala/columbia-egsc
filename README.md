@@ -1,6 +1,4 @@
-Engineering Graduate Student Council, Columbia University
-=========================================================
+columbia-egsc
+=============
 
-The website for EGSC, Columbia University is hosted here on GitHub Pages. To view the website, head over to [http://egsc.seas.columbia.edu](http://egsc.seas.columbia.edu).
-
-For any queries/questions, send an email to [president@egsc.seas.columbia.edu](mailto:president@egsc.seas.columbia.edu) or [webmaster@egsc.seas.columbia.edu](mailto:webmaster@egsc.seas.columbia.edu).
+I developed the website for [EGSC](http://egsc.seas.columbia.edu) during my time as the digital media chair. On completion of my term, I forked at my last commit to maintain a record of my work.
